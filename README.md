@@ -2,7 +2,7 @@ Repositorio con mis practicas de Frappe Framework y acceso a cierta documentacio
 
 ---------------------------------------------------------------------------------
 
-URLs importantes
+### URLs importantes
 
 pagina de documentacion:
 https://docs.frappe.io/framework/user/en/introduction
@@ -15,7 +15,7 @@ http://127.0.0.1:8000
 
 ---------------------------------------------------------------------------------
 
-Instalacion Ubuntu
+ ### Instalacion - WSL (Ubuntu)
 
 ejecutar:
 ```
